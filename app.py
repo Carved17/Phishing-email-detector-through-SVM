@@ -6,7 +6,7 @@ import streamlit as st
 import pickle
 
 # Load the trained models
-with open("svm_model.pkl", "rb") as f:
+with open("svm_model_poly.pkl", "rb") as f:
     svm_model = pickle.load(f)
 
 with open("tfidf_vectorizer.pkl", "rb") as f:
