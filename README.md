@@ -1,4 +1,4 @@
-Email Classification Using Support Vector Machine (SVM)
+#Email Classification Using Support Vector Machine (SVM)
 This project implements an SVM-based machine learning system to classify emails by analyzing their subject lines and message bodies.
 
 📌 Objective
